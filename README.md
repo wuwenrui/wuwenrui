@@ -7,10 +7,7 @@
 ## Featured Projects
 
 - **[AiyuTerm](https://github.com/aiyu-ai/AiyuTerm)** - Native macOS terminal workspace with multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status badges. Powered by Ghostty.
-- **[memos-MCP](https://github.com/wuwenrui/memos-MCP)** - MCP server for Memos, enabling AI agents to read and write personal notes.
-- **[trade-signal](https://github.com/wuwenrui/trade-signal)** - Multi-dimensional market data aggregation and investment analysis tooling.
-- **[wwr-starters](https://github.com/wuwenrui/wwr-starters)** - Collection of Spring Boot Starter scaffolding for rapid project bootstrapping.
-- **[screen-reasoning](https://github.com/wuwenrui/screen-reasoning)** - Screen-based reasoning and automation experiments.
+- **[wwr-starters](https://github.com/wuwenrui/wwr-starters)** - Production-grade Spring Boot Starter collection with opinionated defaults for authentication, caching, distributed tracing, and API scaffolding.
 
 ## Tech Stack
 
@@ -30,4 +27,3 @@
 
 - **GitHub:** [github.com/wuwenrui](https://github.com/wuwenrui)
 - **Organization:** [aiyu-ai](https://github.com/aiyu-ai)
-
