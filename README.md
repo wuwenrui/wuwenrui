@@ -1,62 +1,32 @@
-<div align="center">
+# Hi, I'm Wenrui
 
-## Wenrui Wu
+**Full-Stack Engineer & AI Agent Builder | Systems Programming Enthusiast**
 
-**Systems Engineer / AI Agent Infrastructure / Open Source**
+> A full-stack engineer passionate about developer tooling and AI agent infrastructure. Currently focused on building native macOS terminal experiences, AI agent orchestration systems, and MCP/A2A protocol integrations. I enjoy bridging low-level systems programming with modern AI capabilities.
 
-Building developer tools at the intersection of terminal systems, AI agents, and native platform engineering.
+## Featured Projects
 
----
+- **[AiyuTerm](https://github.com/aiyu-ai/AiyuTerm)** - Native macOS terminal workspace with multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status badges. Powered by Ghostty.
+- **[memos-MCP](https://github.com/wuwenrui/memos-MCP)** - MCP server for Memos, enabling AI agents to read and write personal notes.
+- **[trade-signal](https://github.com/wuwenrui/trade-signal)** - Multi-dimensional market data aggregation and investment analysis tooling.
+- **[wwr-starters](https://github.com/wuwenrui/wwr-starters)** - Collection of Spring Boot Starter scaffolding for rapid project bootstrapping.
+- **[screen-reasoning](https://github.com/wuwenrui/screen-reasoning)** - Screen-based reasoning and automation experiments.
 
-`Python` `TypeScript` `Swift` `Go` `C`
+## Tech Stack
 
-</div>
+**Languages:** Python, TypeScript, Swift, Java, Go, C
 
-### What I Do
+**Backend:** FastAPI, SQLModel, Pydantic v2, Spring Boot, PostgreSQL, SQLite
 
-- **Terminal Infrastructure** -- Native macOS terminal engine built on [Ghostty](https://ghostty.org), with multi-repo workspaces, persistent split layouts, and tmux orchestration
-- **AI Agent Systems** -- Real-time agent status detection, hook-based event pipelines, and permission lifecycle management for autonomous coding agents
-- **Full-Stack Engineering** -- FastAPI + React/Next.js production systems with PostgreSQL, from API design to deployment
+**Frontend:** React, Next.js, Vue
 
-### Featured
+**AI/Agents:** Claude API, MCP Protocol, A2A Protocol, Agent SDK
 
-<table>
-<tr>
-<td width="50%">
+**Systems:** AppKit, SwiftUI, Ghostty (libghostty), Sparkle, Sentry
 
-**[AiyuTerm](https://github.com/aiyu-ai/AiyuTerm)**
-<br/>
-Native macOS terminal workspace for developers working across repositories and worktrees. AppKit + SwiftUI, powered by Ghostty.
-<br/><br/>
-`Swift` `AppKit` `Ghostty` `libghostty`
+**DevOps:** Docker, GitHub Actions, Conventional Commits
 
-</td>
-<td width="50%">
+## Connect
 
-**AI Agent Tooling**
-<br/>
-Claude Code hooks integration, MCP server development, and A2A protocol implementation for multi-agent orchestration.
-<br/><br/>
-`Python` `TypeScript` `MCP` `A2A`
-
-</td>
-</tr>
-</table>
-
-### Tech Stack
-
-```
-Systems        Swift, C, AppKit, Ghostty, libghostty
-Backend        Python, FastAPI, SQLModel, PostgreSQL
-Frontend       TypeScript, React, Next.js
-AI/Agents      Claude API, MCP Protocol, A2A Protocol
-Infrastructure Docker, GitHub Actions, Sparkle, Sentry
-```
-
-<div align="center">
-
----
-
-<sub>Focused on building tools that make developers more productive.</sub>
-
-</div>
+- **GitHub:** [github.com/wuwenrui](https://github.com/wuwenrui)
+- **Organization:** [aiyu-ai](https://github.com/aiyu-ai)
